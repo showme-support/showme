@@ -34,7 +34,9 @@
 }
 
 .card {
+  display: flex;
   padding: 2em;
+  gap: 8px;
 }
 
 .read-the-docs {
